@@ -1,5 +1,12 @@
 # Issue996Repeater
 
+## TODO
+
+1. Remove Issue duplicates.
+2. Reverse page sorting.
+
+## Result:
+
 As of the time the crawler started (#15170 at 2019-03-28T18:58:38+0800):
 
 |UserName|IssueCreated|
